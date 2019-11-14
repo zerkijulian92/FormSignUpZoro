@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243840056325",
+    "firebase_url": "https://formloginzoro.firebaseio.com",
+    "project_id": "formloginzoro",
+    "storage_bucket": "formloginzoro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243840056325:android:0222f7e8f2cc030756306c",
+        "android_client_info": {
+          "package_name": "com.takatutustudio.formloginzoro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243840056325-d21j7onhh6kr0edlua6426cvrqqbkonj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.takatutustudio.formloginzoro",
+            "certificate_hash": "32600501b62d93837a56fef795bc178a6aad8b3e"
+          }
+        },
+        {
+          "client_id": "243840056325-i5s96q3uvprd706erg3ch9pduil287r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd8EkiD2EKttzxtLVzF31wSb04gb9UPn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243840056325-i5s96q3uvprd706erg3ch9pduil287r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

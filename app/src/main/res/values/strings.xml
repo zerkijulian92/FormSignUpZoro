@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FormLoginZoro</string>
+    <string name="terms_of_use">By clicking <b>Sign Up</b> you are agree to the\n<b>Terms of use</b> and <b>Privacy police</b> </string>
+    <string name="clear_all">Clear All</string>
+</resources>
